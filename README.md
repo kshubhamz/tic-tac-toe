@@ -16,8 +16,8 @@ Rules:
                                            
                                            
                                            
-                                                         Idea from: Jose Portilla
-                                                         Developed by Shubham
+                                                       Idea from: Jose Portilla
+                                                       Developed by Shubham
                                                             
                                                               
-                                                              ©Shubham 2020
+                                                          ©Shubham 2020
